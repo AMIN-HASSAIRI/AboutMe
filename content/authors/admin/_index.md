@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/AMIN-HASSAIRI/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/amin-hassairi
+    url: https://www.linkedin.com/in/amin-hassairi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
