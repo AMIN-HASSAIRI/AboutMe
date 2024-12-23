@@ -101,7 +101,7 @@ education:
     date_end: 2014-06-30
     summary: |
       A national diploma based on six years of deep studies in technical music & instrumental skills
-  - area: High School Diploma (Sfax, Tunisia)
+  - area: High School Diploma—Baccalaureate, Mathematics (Sfax, Tunisia)
     institution: Republic of Tunisia Ministry of Education
     date_start: 2007-09-03
     date_end: 2011-06-30
