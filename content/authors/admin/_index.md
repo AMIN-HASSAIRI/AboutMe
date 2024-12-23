@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: MSc Artificial Intelligence & Data Science
-    institution: BME University, Faculty of Electrical Engineering & Informatics
+    institution: BME University, Faculty of Electrical Engineering & Informatics (Budapest, Hungary)
     date_start: 2024-09-02
     date_end: 2026-07-31
     summary: |
@@ -65,7 +65,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: BSc Computer Science Examining
-    institution: Obuda University, John von Neumann Faculty of Informatics 
+    institution: Obuda University, John von Neumann Faculty of Informatics (Budapest, Hungary)
     date_start: 2020-09-07
     date_end: 2024-02-29
     summary: |
@@ -73,18 +73,21 @@ education:
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Music & Musicology
+  - area: The International Foundation Year for Music Program (Debrecen, Hungary)
+    institution: University of Debrecen, Faculty of Music
+    date_start: 2014-09-01
+    date_end: 2015-06-30
+    summary: |
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit 
+  - area: BSc Music & Musicology (Sfax, Tunisia)
     institution: University of Sfax, Higher Institute of Music of Sfax
     date_start: 2011-09-05
     date_end: 2014-06-30
     summary: |
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Arabic Musical Diploma
+  - area: Arabic Musical Diploma (Tunis, Tunisia)
     institution: Republic of Tunisia Ministry of Culture
     date_start: 2011-09-05
     date_end: 2014-06-30
