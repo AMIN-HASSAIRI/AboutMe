@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:amin-hassairi@hotmail.fr'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AMIN-HASSAIRI/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/amin-hassairi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amin HASSAIRI is a lifelong long learner, passionate about music and technology. Currently pursuing a MSc degree in Artificial Intelligence & Data Science, at BME University—Faculty of Electrical Engineering & Informatics.  His research interests include but not limited to Automatic Speech Recogmition, Medical Image Processing, and application of AI in music field.
