@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Amin HASSAIRI
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Machine & Deep Learning Scientist | Musician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: BME University, Faculty of Electrical Engineering & Informatics
+    url: https://https://www.vik.bme.hu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:amin-hassairi@hotmail.fr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Automatic Speech Recognition
 
 education:
   - area: PhD Artificial Intelligence
@@ -142,12 +142,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 95
+  - name: French
+    percent: 85
+  - name: Hungarian
+    percent: 82
 
 # Awards.
 #   Add/remove as many awards below as you like.
