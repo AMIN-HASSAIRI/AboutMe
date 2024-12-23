@@ -64,15 +64,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Computer Science Examining
+  - area: BSc Computer Science Engineering
     institution: Obuda University, John von Neumann Faculty of Informatics (Budapest, Hungary)
     date_start: 2020-09-07
     date_end: 2024-02-29
     summary: |
+      Thesis Title "EXACT CAMERA LOCATION VIA GAUSS—NEWTON METHOD"
+      
       GPA: 3.75/5.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Software Design & Development
+      - Databases
+      - Network Technologies
+      - Cloud Computing
+      - Computer Architectures
+      - IT Security
+      - Probability Theory & Mathematical Statistics
   - area: The International Foundation Year for Music Program (Debrecen, Hungary)
     institution: University of Debrecen, Faculty of Music
     date_start: 2014-09-01
@@ -93,7 +101,7 @@ education:
     date_end: 2014-06-30
     summary: |
       A national diploma based on six years of deep studies in technical music & instrumental skills
-  - area: High School Diploma
+  - area: High School Diploma (Sfax, Tunisia)
     institution: Republic of Tunisia Ministry of Education
     date_start: 2007-09-03
     date_end: 2011-06-30
@@ -103,7 +111,7 @@ education:
          
 work:
   - position: Junior Software Engineer (Part-time; 20h/week)
-    company_name: Monn42
+    company_name: Monn42 (Budapest, Hungary)
     company_url: 'https://www.moon42.com'
     company_logo: ''
     date_start: 2022-09-01
@@ -115,7 +123,7 @@ work:
       - Keeping up to date the client with the progress, to determine whether enhancements can be made in a specific function.
       - Meeting the deadlines by delivering the solution in time.
   - position: Software Engineer Intern (Full-time)
-    company_name: Moon42
+    company_name: Moon42 (Budapest, Hungary)
     company_url: 'https://www.moon42.com'
     company_logo: 
     date_start: 2022-07-01
@@ -125,7 +133,7 @@ work:
       - Communicating with CEO of a Swedish SaaS company and understanding the needs of the client’s project—accelerate the adoption of sustainable agriculture by enabling farmers to earn an additional income for improving soil health on farmland, through using an automated system to monitor and verify soil carbon uptake.
       - Presenting the client’s project goal to other five developer team members, and dividing tasks evenly among them using Jira, to achieve business milestones.
   - position: Music Teacher (Full-time); following the national curriculum in charge of grade 7 — 10
-    company_name: Musical Talent School
+    company_name: Musical Talent School (Sfax, Tunisia)
     company_url: 
     company_logo: 
     date_start: 2015-09-01
