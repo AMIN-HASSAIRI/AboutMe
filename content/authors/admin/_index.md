@@ -48,23 +48,26 @@ profiles:
 
 interests:
   - Artificial Intelligence
+  - Deep Learning
   - Machine Learning
   - Automatic Speech Recognition
+  - Data Science
+  - Music
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Artificial Intelligence & Data Science
+    institution: BME University, Faculty of Electrical Engineering & Informatics
+    date_start: 2024-09-02
+    date_end: 2026-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science Examining
+    institution: Obuda University, John von Neumann Faculty of Informatics 
+    date_start: 2020-09-07
+    date_end: 2024-02-29
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +75,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Music & Musicology
+    institution: University of Sfax, Higher Institute of Music of Sfax
+    date_start: 2011-09-05
+    date_end: 2014-06-30
     summary: |
       GPA: 3.4/4.0
       
@@ -83,6 +86,20 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Arabic Musical Diploma
+    institution: Republic of Tunisia Ministry of Culture
+    date_start: 2011-09-05
+    date_end: 2014-06-30
+    summary: |
+      A national diploma based on six years of deep studies in technical music & instrumental skills
+  - area: High School Diploma
+    institution: Republic of Tunisia Ministry of Education
+    date_start: 2007-09-03
+    date_end: 2011-06-30
+    summary: |
+          
+      
+         
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
