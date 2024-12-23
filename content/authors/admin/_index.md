@@ -69,7 +69,7 @@ education:
     date_start: 2020-09-07
     date_end: 2024-02-29
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.75/5.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -80,8 +80,6 @@ education:
     date_start: 2011-09-05
     date_end: 2014-06-30
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -101,28 +99,48 @@ education:
       
          
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Junior Software Engineer (Part-time; 20h/week)
+    company_name: Monn42
+    company_url: 'https://www.moon42.com'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-09-01
+    date_end: 2023-12-31
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Developing a backend solution in Python that gathers, processes and saves the data collected by Copernicus the European Union’s Earth Observation Programme, for a given agriculture area.
+      - Researching which of the multiple available APIs to use, how to gather the data through the REST API, which Python framework to use, how to process the data and calculate new data using high-level mathematical equations,and how to persist the data in a PostgreSQL relational database.
+      - Keeping up to date the client with the progress, to determine whether enhancements can be made in a specific function.
+      - Meeting the deadlines by delivering the solution in time.
+  - position: Software Engineer Intern (Full-time)
+    company_name: Moon42
+    company_url: 'https://www.moon42.com'
+    company_logo: 
+    date_start: 2022-07-01
+    date_end: 2022-08-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Communicating with CEO of a Swedish SaaS company and understanding the needs of the client’s project—accelerate the adoption of sustainable agriculture by enabling farmers to earn an additional income for improving soil health on farmland, through using an automated system to monitor and verify soil carbon uptake.
+      - Presenting the client’s project goal to other five developer team members, and dividing tasks evenly among them using Jira, to achieve business milestones.
+  - position: Music Teacher (Full-time); following the national curriculum in charge of grade 7 — 10
+    company_name: Musical Talent School
+    company_url: 
+    company_logo: 
+    date_start: 2015-09-01
+    date_end: 2020-08-31
+    summary: |  
+      Responsibilities include:
+      - Introduction to basic music theory concepts such as notes, scales, intervals, and chords.
+      - Building on previous knowledge to understand more advanced concepts like key signatures, and modes.
+      - Basic harmony and chord progression.
+      - Continued development of instrumental skills for students learning to play an instrument.
+      - Ensemble playing, emphasizing collaboration and teamwork.  
+      - Exploring different vocal styles and genres.
+      - Singing in harmony and participating in choral activities.
+      - Exploring the history of music, including different time periods, styles and cultural influences.
+      - Developing active listening skills to analyze and appreciate different genres of music. 
+      - Recognizing and identifying different musical elements in a piece.
+      - Integrating technology into music education, including using software for writing and recording music.
+      - Providing opportunities for students to showcase their musical talents through performances.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
