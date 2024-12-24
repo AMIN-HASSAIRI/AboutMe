@@ -63,7 +63,7 @@ education:
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://closed-access.com'
   - area: BSc Computer Science Engineering
     institution: Obuda University, John von Neumann Faculty of Informatics (Budapest, Hungary)
     date_start: 2020-09-07
@@ -81,6 +81,9 @@ education:
       - Computer Architectures
       - IT Security
       - Probability Theory & Mathematical Statistics
+    button:
+      text: 'Read Thesis'
+      url: 'http://closed-access.com' 
   - area: The International Foundation Year for Music Program (Debrecen, Hungary)
     institution: University of Debrecen, Faculty of Music
     date_start: 2014-09-01
@@ -202,11 +205,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Stipendium Hungaricum Scholarship
+    url: https://stipendiumhungaricum.hu/
+    date: '2024-09-01'
+    awarder: Tempus Public Foundation Hungary
+    icon: SH_logo.svg
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
