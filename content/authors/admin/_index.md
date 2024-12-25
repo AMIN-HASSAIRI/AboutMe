@@ -80,6 +80,7 @@ education:
       - Computer Architectures
       - IT Security
       - Probability Theory & Mathematical Statistics
+      - ...
     button:
       text: 'Read Thesis'
       url: 'http://closed-access.com' 
@@ -89,14 +90,22 @@ education:
     date_end: 2015-06-30
     summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit 
+      - Solfeggio
+      - Music Theory
+      - Guitar & Piano
   - area: BSc Music & Musicology (Sfax, Tunisia)
     institution: University of Sfax, Higher Institute of Music of Sfax
     date_start: 2011-09-05
     date_end: 2014-06-30
     summary: |
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Dictation
+      - Oriental Notes & Rhythms
+      - Tunisian Keys & Rhythms
+      - Harmony & Counterpoint
+      - Analysis & composition of Arabic Music
+      - Oud Instrument
+      - ...
   - area: Arabic Musical Diploma (Tunis, Tunisia)
     institution: Republic of Tunisia Ministry of Culture
     date_start: 2007-09-01
@@ -108,6 +117,13 @@ education:
     date_start: 2007-09-03
     date_end: 2011-06-30
     summary: |
+      Courses included:
+        - Mathematics
+        - Physical Science
+        - French & English
+        - Philosophy
+        - Earth & Life Science
+        - Musical & Physical Education
           
       
          
