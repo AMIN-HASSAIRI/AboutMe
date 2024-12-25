@@ -211,7 +211,6 @@ awards:
     icon: 
     summary: |
       This Scholarship was awarded to Amin for the program "MSc in Artificial Intelligence & Data Science" (Budapest, Hungary)
-awards:
   - title: Stipendium Hungaricum Scholarship
     url: https://stipendiumhungaricum.hu/
     date: '2020-09-01'
@@ -219,7 +218,6 @@ awards:
     icon: 
     summary: |
       This Scholarship was awarded to Amin for the program "BSc in Computer Science Engineering" (Budapest, Hungary)
-awards:
   - title: Stipendium Hungaricum Scholarship
     url: https://stipendiumhungaricum.hu/
     date: '2019-09-01'
@@ -227,7 +225,6 @@ awards:
     icon: 
     summary: |    
       This Scholarship was awarded to Amin for the program "Intensive Hungarian Foundation Course" (Budapest, Hungary)
-awards:
   - title: Stipendium Hungaricum Scholarship
     url: https://stipendiumhungaricum.hu/
     date: '2014-09-01'
