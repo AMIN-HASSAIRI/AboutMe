@@ -6,8 +6,8 @@ title: Amin HASSAIRI
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amin
+last_name: HASSAIRI
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Machine & Deep Learning Scientist | Musician
+role: Machine & Deep Learning Scientist | Musician | Oud Player
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,10 +48,9 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Deep Learning
-  - Machine Learning
+  - Machine & Deep Learning
   - Automatic Speech Recognition
-  - Data Science
+  - Data Science & Visualization
   - Music
 
 education:
@@ -100,8 +99,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Arabic Musical Diploma (Tunis, Tunisia)
     institution: Republic of Tunisia Ministry of Culture
-    date_start: 2011-09-05
-    date_end: 2014-06-30
+    date_start: 2007-09-01
+    date_end: 2013-10-30
     summary: |
       A national diploma based on six years of deep studies in technical music & instrumental skills
   - area: High School Diploma—Baccalaureate, Mathematics (Sfax, Tunisia)
@@ -208,20 +207,45 @@ awards:
   - title: Stipendium Hungaricum Scholarship
     url: https://stipendiumhungaricum.hu/
     date: '2024-09-01'
-    awarder: Tempus Public Foundation Hungary
+    awarder: Tempus Public Foundation Hungary 
     icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: #edx
+      This Scholarship was awarded to Amin for the program "MSc in Artificial Intelligence & Data Science" (Budapest, Hungary)
+awards:
+  - title: Stipendium Hungaricum Scholarship
+    url: https://stipendiumhungaricum.hu/
+    date: '2020-09-01'
+    awarder: Tempus Public Foundation Hungary 
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      This Scholarship was awarded to Amin for the program "BSc in Computer Science Engineering" (Budapest, Hungary)
+awards:
+  - title: Stipendium Hungaricum Scholarship
+    url: https://stipendiumhungaricum.hu/
+    date: '2019-09-01'
+    awarder: Tempus Public Foundation Hungary
+    icon: 
+    summary: |    
+      This Scholarship was awarded to Amin for the program "Intensive Hungarian Foundation Course" (Budapest, Hungary)
+awards:
+  - title: Stipendium Hungaricum Scholarship
+    url: https://stipendiumhungaricum.hu/
+    date: '2014-09-01'
+    awarder: Tempus Public Foundation Hungary
+    icon: 
+    summary: |    
+      This Scholarship was awarded to Amin for the program "The International Foundation Year for Music Program" (Debrecen, Hungary)      
+
+#  - title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    date: '2023-07-01'
+#    awarder: edX
+#    icon: #edx
+#    summary: |
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   
 #  - title: 'Object-Oriented Programming in R'
 #    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
@@ -235,4 +259,4 @@ awards:
 
 ## About Me
 
-Amin HASSAIRI is a lifelong long learner, passionate about music and technology. Currently pursuing a MSc degree in Artificial Intelligence & Data Science, at BME University—Faculty of Electrical Engineering & Informatics.  His research interests include but not limited to Automatic Speech Recogmition, Medical Image Processing, and application of AI in music field.
+Amin HASSAIRI is a lifelong learner with a passion for both music and technology. He is currently pursuing a Master’s degree in Artificial Intelligence & Data Science at BME University’s Faculty of Electrical Engineering & Informatics. Amin’s research interests include, but are not limited to, automatic speech recognition, medical image processing, and the application of AI in music.
