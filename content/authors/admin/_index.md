@@ -272,4 +272,4 @@ awards:
 
 ## About Me
 
-Amin HASSAIRI is a lifelong learner with a passion for both music and technology. He is currently pursuing a Master’s degree in Artificial Intelligence & Data Science at BME University’s Faculty of Electrical Engineering & Informatics. Amin’s research interests include, but are not limited to, automatic speech recognition, medical image processing, and the application of AI in music.
+Amin HASSAIRI is a lifelong learner with a passion for both music and technology. He is currently pursuing a Master’s degree in Artificial Intelligence & Data Science at BME University’s Faculty of Electrical Engineering & Informatics (Budapest, Hungary). Amin’s research interests include, but are not limited to, automatic speech recognition, medical image processing, and the application of AI in music.
