@@ -46,18 +46,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://scienceasia.asia/files/2022-12.pdf'
-url_code: 'https://github.com/'
-url_dataset: 'https://github.com/'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
