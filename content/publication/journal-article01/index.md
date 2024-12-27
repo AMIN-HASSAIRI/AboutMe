@@ -27,7 +27,7 @@ publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Asian J. Math. Appl.(2022)*
-publication_short: In *ICW*
+publication_short: In *Asian J. Math. Appl.(2022)*
 
 abstract: The aim of this present work is to develop an iterative method called Gauss Newton Method to resolve inverse problems. The inverse problem is formulated as an optimization problem in the sense of least squares. In order to minimize the computation time related to resolving this inverse problem, a method with direction of descent (method of Gauss Newton) is chosen. This algorithm allows a good compromise between accuracy and computation time. Directional methods descent that may present numerical instabilities, the Gauss Newton algorithm is stabilized in order to be able to identify the model parameters considered.
 

@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Conformer-based Automatic Speech Recognition for Arabic Dialects'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - A. Hassairi
+  - P. Mihajlik
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-01-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,18 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *3rd Workshop on Intelligent Infocommunication Networks, Systems and Services (WINS 2025)*
+publication_short: In *WINS 2025*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Automatic Speech Recognition has shown a significant upward trend in recent years. This paper investigates an ASR system for the Arabic language developed using the Conformer-CTC characterbased model within the NeMo framework. The system leverages the latest deep learning techniques, focusing
+on the conformer architecture combined with Connectionist Temporal Classification for sequence-to-sequence learning. The model is supervised, using
+labeled training data to map the input audio to text. The Mozilla Common Voice 11.0 dataset, which offers diverse spoken Arabic samples, is used for training.
+This paper details the model training process, including configuration setup, data processing, and optimization strategies. The performance of the model is evaluated, offering insights into the challenges and effectiveness of the Conformer-CTC character-based model for Arabic speech recognition tasks.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper explores the development of an Automatic Speech Recognition (ASR) system for the Arabic language using a Conformer-CTC character-based model within the NeMo framework. The system employs advanced deep learning techniques, combining the Conformer architecture with Connectionist Temporal Classification (CTC) for sequence-to-sequence learning. Supervised training is performed with labeled data to map audio input to text. The Mozilla Common Voice 11.0 dataset, containing diverse Arabic speech samples, is used for training. The paper discusses the model training process, including configuration, data processing, and optimization strategies, and evaluates the model's performance, highlighting both challenges and successes in applying the Conformer-CTC model to Arabic speech recognition.
 
 tags:
-  - Large Language Models
+  - ASR, Conformer-CTC, Characterbased, Mozilla Common Voice, Arabic language, Deep Learning
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,18 +47,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -76,6 +78,7 @@ projects:
 slides: example
 ---
 
+<!--
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -85,3 +88,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
