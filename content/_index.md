@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Amin focuses on advancing the application of Artificial Intelligence and Machine Learning across a range of domains, including Automatic Speech Recognition, Medical Image Processing, and AI-driven music technologies. His work involves developing innovative solutions that enable machines to understand, generate, and interact with complex data in meaningful ways.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Amin combines both qualitative and quantitative methods to explore how AI can enhance our understanding of human communication, creativity, and health. His research seeks to contribute to the development of intelligent systems that are not only effective but also ethically aligned with real-world applications.
+
+        Amin is always open to collaborating on projects related to these areas—please feel free to reach out! 😃
     design:
       columns: '1'
   - block: collection
