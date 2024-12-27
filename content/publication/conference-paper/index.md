@@ -1,42 +1,41 @@
 ---
-title: 'Conformer-based Automatic Speech Recognition for Arabic Dialects'
+title: 'EXACT CAMERA LOCATION VIA GAUSS—NEWTON METHOD'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - I. Hassairi
+  - C. Junqi
   - A. Hassairi
-  - P. Mihajlik
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-01-31T00:00:00Z'
+date: '2022-12-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-31T00:00:00Z'
+publishDate: '2022-12-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *3rd Workshop on Intelligent Infocommunication Networks, Systems and Services (WINS 2025)*
-publication_short: In *WINS 2025*
+publication: In *Asian J. Math. Appl.(2022)*
+publication_short: In *Asian J. Math. Appl.(2022)*
 
-abstract: Automatic Speech Recognition has shown a significant upward trend in recent years. This paper investigates an ASR system for the Arabic language developed using the Conformer-CTC characterbased model within the NeMo framework. The system leverages the latest deep learning techniques, focusing
-on the conformer architecture combined with Connectionist Temporal Classification for sequence-to-sequence learning. The model is supervised, using
-labeled training data to map the input audio to text. The Mozilla Common Voice 11.0 dataset, which offers diverse spoken Arabic samples, is used for training.
-This paper details the model training process, including configuration setup, data processing, and optimization strategies. The performance of the model is evaluated, offering insights into the challenges and effectiveness of the Conformer-CTC character-based model for Arabic speech recognition tasks.
+abstract: The aim of this present work is to develop an iterative method called Gauss Newton Method to resolve inverse problems. The inverse problem is formulated as an optimization problem in the sense of least squares. In order to minimize the computation time related to resolving this inverse problem, a method with direction of descent (method of Gauss Newton) is chosen. This algorithm allows a good compromise between accuracy and computation time. Directional methods descent that may present numerical instabilities, the Gauss Newton algorithm is stabilized in order to be able to identify the model parameters considered.
+
 # Summary. An optional shortened abstract.
-summary: This paper explores the development of an Automatic Speech Recognition (ASR) system for the Arabic language using a Conformer-CTC character-based model within the NeMo framework. The system employs advanced deep learning techniques, combining the Conformer architecture with Connectionist Temporal Classification (CTC) for sequence-to-sequence learning. Supervised training is performed with labeled data to map audio input to text. The Mozilla Common Voice 11.0 dataset, containing diverse Arabic speech samples, is used for training. The paper discusses the model training process, including configuration, data processing, and optimization strategies, and evaluates the model's performance, highlighting both challenges and successes in applying the Conformer-CTC model to Arabic speech recognition.
+summary: The goal of this work is to develop an iterative method, specifically the Gauss-Newton Method, to solve inverse problems. These problems are formulated as optimization tasks using least squares. To reduce computation time, the Gauss-Newton Method is selected for its ability to balance accuracy and efficiency. While directional descent methods can sometimes cause numerical instabilities, the Gauss-Newton algorithm is stabilized to ensure it can reliably identify the model parameters.
 
 tags:
-  - ASR, Conformer-CTC, Characterbased, Mozilla Common Voice, Arabic language, Deep Learning
+  - GAUSS—NEWTON METHOD, LEAST SQUARES PROBLEM, OVERDETERMINED SYSTEMS.
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://scienceasia.asia/files/2022-12.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -77,8 +76,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-
+<!--
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -88,3 +86,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
