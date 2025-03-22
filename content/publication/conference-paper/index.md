@@ -1,41 +1,40 @@
 ---
-title: 'EXACT CAMERA LOCATION VIA GAUSS—NEWTON METHOD'
+title: 'CONFORMER-BASED AUTOMATIC SPEECH RECOGNITION FOR ARABIC DIALECTS'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - I. Hassairi
-  - C. Junqi
   - A. Hassairi
+  - P. Mihajlik
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2022-12-31T00:00:00Z'
+date: '2025-01-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-12-31T00:00:00Z'
+publishDate: '2025-01-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Asian J. Math. Appl.(2022)*
-publication_short: In *Asian J. Math. Appl.(2022)*
+publication: In *3rd Workshop on Intelligent Infocommunication Networks, Systems and Services, 2025*
+publication_short: In *3rd Workshop on Intelligent Infocommunication Networks, Systems and Services, 2025*
 
-abstract: The aim of this present work is to develop an iterative method called Gauss Newton Method to resolve inverse problems. The inverse problem is formulated as an optimization problem in the sense of least squares. In order to minimize the computation time related to resolving this inverse problem, a method with direction of descent (method of Gauss Newton) is chosen. This algorithm allows a good compromise between accuracy and computation time. Directional methods descent that may present numerical instabilities, the Gauss Newton algorithm is stabilized in order to be able to identify the model parameters considered.
+abstract: Automatic Speech Recognition has shown a significant upward trend in recent years. This paper investigates an ASR system for the Arabic language, developed using the Conformer-CTC character-based model within the NeMo framework. The system leverages the latest deep learning techniques, focusing on the conformer architecture combined with Connectionist Temporal Classification for sequence-to-sequence learning. The model is supervised, using labeled training data to map the input audio to text. The Mozilla Common Voice 11.0 dataset, which offers diverse spoken Arabic samples, is used for training. This paper details the model training process, including configuration setup, data processing, and optimization strategies. The performance of the model is evaluated, offering insights into the challenges and effectiveness of the Conformer-CTC character-based model for Arabic speech recognition tasks.
 
 # Summary. An optional shortened abstract.
-summary: The goal of this work is to develop an iterative method, specifically the Gauss-Newton Method, to solve inverse problems. These problems are formulated as optimization tasks using least squares. To reduce computation time, the Gauss-Newton Method is selected for its ability to balance accuracy and efficiency. While directional descent methods can sometimes cause numerical instabilities, the Gauss-Newton algorithm is stabilized to ensure it can reliably identify the model parameters.
+summary: The goal of this work is to develop an Automatic Speech Recognition (ASR) system for the Arabic language using advanced deep learning techniques. Specifically, a Conformer-CTC character-based model is implemented within the NeMo framework. The system leverages the latest advances in sequence-to-sequence learning, combining the conformer architecture with Connectionist Temporal Classification (CTC) to map audio input to text. The model is trained using labeled data from the Mozilla Common Voice 11.0 dataset, which includes diverse Arabic speech samples. The paper discusses the training process, including data preprocessing, configuration, and optimization strategies. The effectiveness of the Conformer-CTC model is evaluated, providing insights into its potential and challenges for Arabic speech recognition tasks.
 
 tags:
-  - GAUSS—NEWTON METHOD, LEAST SQUARES PROBLEM, OVERDETERMINED SYSTEMS.
+  - ASR, CONFORMER-CTC, CHARACTER-BASED, ARABIC LANGUAGE, DEEP LEARNING.
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://scienceasia.asia/files/2022-12.pdf'
+url_pdf: 'https://doi.org/10.3311/WINS2025-004'
 url_code: ''
 url_dataset: ''
 url_poster: ''
