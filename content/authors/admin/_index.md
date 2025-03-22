@@ -132,7 +132,7 @@ work:
     company_url: 'https://www.snorkel.ai'
     company_logo: ''
     date_start: 2025-02-01
-    date_end: Currently
+    date_end: 
     summary: |
       Responsibilities include:
       - Data Annotation: Identify and tag data accurately to train machine learning models.
