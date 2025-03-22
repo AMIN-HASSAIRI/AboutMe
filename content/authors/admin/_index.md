@@ -125,22 +125,36 @@ education:
         - Earth & Life Science
         - Musical & Physical Education
           
-      
          
 work:
-  - position: Junior Software Engineer (Part-time; 20h/week)
+  - position: AI Research Scientist (Remotely; 10–20h/week)
+    company_name: Snorkel AI (California, USA)
+    company_url: 'https://www.snorkel.ai'
+    company_logo: ''
+    date_start: 2025-02-01
+    date_end: Currently
+    summary: |
+      Responsibilities include:
+      - Data Annotation: Identify and tag data accurately to train machine learning models.
+      - Prompt Generation: Creating clear and concise prompts for educational or AI training purposes.
+      - Response Evaluation: Assessment and refinement of AI-generated responses to ensure accuracy and relevance.
+      - Quality Assurance: Meticulously review the work to maintain the consistency and integrity of the data.
+      - Data Processing: Efficiently managing large datasets while upholding stringent quality standards.
+  - position: Junior Software Engineer (On-site; 20h/week)
     company_name: Monn42 (Budapest, Hungary)
     company_url: 'https://www.moon42.com'
     company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-31
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - Developing a backend solution in Python that gathers, processes and saves the data collected by Copernicus the European Union’s Earth Observation Programme, for a given agriculture area.
-      - Researching which of the multiple available APIs to use, how to gather the data through the REST API, which Python framework to use, how to process the data and calculate new data using high-level mathematical equations,and how to persist the data in a PostgreSQL relational database.
-      - Keeping up to date the client with the progress, to determine whether enhancements can be made in a specific function.
-      - Meeting the deadlines by delivering the solution in time.
-  - position: Software Engineer Intern (Full-time)
+      - Back-end Development: Design and implementation of a Python-based solution to collect, process, and store data collected by Copernicus, the European Union Earth Observation Program, for agricultural areas.
+      - API Integration: Research and select the most suitable APIs, use RESTful services to retrieve data, and determine the appropriate Python framework for data handling and processing.
+      - Data Processing & Analysis: Using high-level mathematical equations to process, analyze, and generate new insights from the collected data, ensuring accuracy and scalability.
+      - Database Management: The processed data are persistently stored in a PostgreSQL relational database, ensuring proper data storage, retrieval, and          optimization for future use.
+      - Client Communication: Keeping the client informed of progress, collecting feedback and identifying areas for improvement to refine specific functionalities. 
+      - Deadline Management: Ensure timely delivery of the solution by adhering to project timelines and meeting specified milestones. 
+  - position: Software Engineer Intern (On-site; 40h/week)
     company_name: Moon42 (Budapest, Hungary)
     company_url: 'https://www.moon42.com'
     company_logo: 
@@ -148,8 +162,8 @@ work:
     date_end: 2022-08-30
     summary: |
       Responsibilities include:
-      - Communicating with CEO of a Swedish SaaS company and understanding the needs of the client’s project—accelerate the adoption of sustainable agriculture by enabling farmers to earn an additional income for improving soil health on farmland, through using an automated system to monitor and verify soil carbon uptake.
-      - Presenting the client’s project goal to other five developer team members, and dividing tasks evenly among them using Jira, to achieve business milestones.
+      - Client Communication: Engaging with the CEO of a Swedish SaaS company to understand the client’s project needs, aimed at accelerating the adoption of sustainable agriculture by enabling farmers to earn additional income through an automated system for monitoring and verifying soil carbon uptake.
+      - Project Coordination: Presenting the client’s project goals to a team of five developers, and organizing task distribution using Jira to ensure efficient progress toward business milestones.
   - position: Music Teacher (Full-time); following the national curriculum in charge of grade 7 — 10
     company_name: Musical Talent School (Sfax, Tunisia)
     company_url: 
@@ -158,18 +172,11 @@ work:
     date_end: 2020-08-31
     summary: |  
       Responsibilities include:
-      - Introduction to basic music theory concepts such as notes, scales, intervals, and chords.
-      - Building on previous knowledge to understand more advanced concepts like key signatures, and modes.
-      - Basic harmony and chord progression.
-      - Continued development of instrumental skills for students learning to play an instrument.
-      - Ensemble playing, emphasizing collaboration and teamwork.  
-      - Exploring different vocal styles and genres.
-      - Singing in harmony and participating in choral activities.
-      - Exploring the history of music, including different time periods, styles and cultural influences.
-      - Developing active listening skills to analyze and appreciate different genres of music. 
-      - Recognizing and identifying different musical elements in a piece.
-      - Integrating technology into music education, including using software for writing and recording music.
-      - Providing opportunities for students to showcase their musical talents through performances.
+      - Teach music theory, including notes, scales, intervals, and harmony.
+      - Develop instrumental skills and chord progressions through ensemble playing.
+      - Explore vocal styles, genres, and music history.
+      - Enhance listening skills and identify musical elements.
+      - Integrate technology for composition, recording, and performance.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
